@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/matteozancanella/static/css/main.5facb584.chunk.css",
-    "main.js": "/matteozancanella/static/js/main.acebc274.chunk.js",
-    "main.js.map": "/matteozancanella/static/js/main.acebc274.chunk.js.map",
+    "main.js": "/matteozancanella/static/js/main.46b62dc8.chunk.js",
+    "main.js.map": "/matteozancanella/static/js/main.46b62dc8.chunk.js.map",
     "runtime~main.js": "/matteozancanella/static/js/runtime~main.1700ec7e.js",
     "runtime~main.js.map": "/matteozancanella/static/js/runtime~main.1700ec7e.js.map",
     "static/js/2.82d857d4.chunk.js": "/matteozancanella/static/js/2.82d857d4.chunk.js",
     "static/js/2.82d857d4.chunk.js.map": "/matteozancanella/static/js/2.82d857d4.chunk.js.map",
     "index.html": "/matteozancanella/index.html",
-    "precache-manifest.e819fb03208914b7aeca3987761cd45a.js": "/matteozancanella/precache-manifest.e819fb03208914b7aeca3987761cd45a.js",
+    "precache-manifest.d19092affda3969572083d436a0ba7b0.js": "/matteozancanella/precache-manifest.d19092affda3969572083d436a0ba7b0.js",
     "service-worker.js": "/matteozancanella/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/matteozancanella/static/css/main.5facb584.chunk.css.map"
   }
