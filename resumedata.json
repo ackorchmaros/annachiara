@@ -47,7 +47,7 @@
         "company":"Haven Life, New York City",
         "title":"Tech Liaison/Full Stack Dev",
         "years":"December 2017 - June 2020",
-        "description":"Leading the InsureTech industry with NodeJS, Postgres, GraphQL, Angular and so much more (80% Backend/20% Frontend)"
+        "description":"Leading the InsureTech industry with NodeJS, Postgres, GraphQL, Angular and passion (80% Backend/20% Frontend)"
       },
       {
         "company":"General Electric, Atlanta",
@@ -95,8 +95,8 @@
     "projects": [
       {
         "title":"Boka",
-        "category":"WIP free app for restoration and medical usages ( ng + NodeJS + Postgres )( Currently Private Repo, contact me if you wanna help/look)",
-        "image":"canadian-wanderlust.jpg",
+        "category":"W.I.P. service for restaurant and medical industry ( ng + NodeJS + Postgres )( Currently Private Repo, contact me if you wanna help/look)",
+        "image":"boka.jpg",
         "url":"https://github.com/ZancaM/boka"
       },
       {
