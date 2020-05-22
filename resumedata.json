@@ -95,7 +95,7 @@
     "projects": [
       {
         "title":"Boka",
-        "category":"W.I.P. service for restaurant and medical industry ( ng + NodeJS + Postgres )( Currently Private Repo, contact me if you wanna help/look)",
+        "category":"W.I.P. service for restaurant and the medical industry ( ng + NodeJS + Postgres )( Currently Private Repo, contact me if you wanna help/look)",
         "image":"boka.jpg",
         "url":"https://github.com/ZancaM/boka"
       },
@@ -104,6 +104,12 @@
         "category":"A Node CLI to manipulate large amounts of metadata",
         "image":"nodeutility.jpg",
         "url":"https://github.com/ZancaM/rate-converter"
+      },
+      {
+        "title":"CorkBoardIt",
+        "category":"A PinInterest like Application build with NodeJS to explore ReactJS and play with SQL queries",
+        "image":"corkboardit.jpg",
+        "url":"https://github.com/ZancaM/corkboardit"
       }
     ]
   },
