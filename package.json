@@ -1,8 +1,8 @@
 {
-  "name": "matteozancanella",
+  "name": "annachiara",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zancam.github.io/matteozancanella",
+  "homepage": "https://ackorchmaros.github.io/annachiara",
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.8.6",
@@ -37,4 +37,3 @@
     "gh-pages": "^2.2.0"
   }
 }
-
