@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name":"Annachiara Korchmaros",
+    "occupation":"Postdoctoral Researcher",
+    "description":"I love tackling questions arising from genetics and neuroscience with algebraic geometry and combinatorial tools. I recently joined Kaie Kubjas' group at Aalto University in Helsinki where I am working on several projects which involve real algebraic varieties, polynomial optimisation, phylogenetic invariants, tensor decomposition, and colored best match graphs.",
+    "image":"profilepic.jpg",
+    "bio":"Thank you for checking out my website. I studied bioinformatics and worked as neuroimaging data analyst in the US for almost 5 years, before that I was in Italy where I graduated with a Master and PhD in Mathematics. I relocated in Finland to my new adventure in December 2019. Outside work I love spending time with friends and family, meditating, cycling, doing pilates, and all kind of outdoor activities.",
+    "contactmessage":"I am looking for a second postdoc to start anytime between January-June 2020. Email me if you have an opening in your group or a project where my expertises can help!",
+    "email": "annachiara.korchmaros@aalto.fi",
+    "address":{
+      "city": "Helsinki",
+      "state":"Finland"
+    },
+    "website": "http://www.annachiarakorchmaros.com",
+    "resumedownload":"./AnnachiaraResume2020.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/annachiara-korchmaros-4aa772105/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Be open to learn, unlearn and relearn.",
+    "education":[
+      {
+        "school":"Georgia Institute of Technology, Atlanta, US",
+        "degree":"M.S. in Bioinformatics",
+        "graduated":"May 2017",
+        "description":"My first experience in a non-math group and as math teaching assistant."
+      },
+      {
+        "school":"University of Basilicata, International Doctoral Seminar JÁNOS BOLYAI",
+        "degree":"Ph.D. in Mathematics",
+        "graduated":"February 2015",
+        "description":"Learned about DNA rearrangements and studied the Cayley graph associated to DNA transpositions. "
+      },
+      {
+        "school":"University of Perugia, Perugia, Italy",
+        "degree":"M.S. in Mathematics",
+        "graduated":"September 2011",
+        "description":"Studied in particular algebraic geometry and its application to aligning DNA sequences. "
+      },
+      {
+        "school":"University of Perugia, Perugia, Italy",
+        "degree":"B.S. in Mathematics",
+        "graduated":"February 2009",
+        "description":"My first steps toward college mathematics. "
+      }
+    ],
+    "work":[
+      {
+        "company":"Aalto University, Helsinki, Finland",
+        "title":"Postdoctoral Researcher",
+        "years":"December 2019 - present",
+        "description":"Currently working on four projects: 3D reconstruction of DNA structure in diploid organisms, neural manifold, clustering brain images with tensor decompositions, and phylogentic invariants."
+      },
+      {
+	      "company":"Child Mind Institute, New York, US",
+        "title":"Neuroimaging Data Analyst",        
+        "years":"August 2018 - August 2019",
+        "description":"I mastered data analyst skills and learned about neuroscience, in particular neuroimaging."
+      },
+      {
+       "company":"Georgia Institute of Technology, Atlanta, US",
+        "title":"Graduate Teaching Assistant",
+        "years":"August 2015 - August 2017",
+        "description":"Two years of helping students with learning calculus and discrete mathematics."
+      }
+    ],
+    "skills":[
+      {
+        "name":"R",
+        "level":"100%"
+      },
+	    {
+        "name":"Shell scripting",
+        "level":"80%"
+      },
+      {
+        "name":"Magma",
+        "level":"70%"
+      },
+      {
+        "name":"Matlab",
+        "level":"60%"
+      },
+      {
+        "name": "Macualay2",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "FSL",
+        "level": "50%"
+      },
+      {
+        "name":"JMP",
+        "level":"50%"
+      }
+    ]
+  }
+}
